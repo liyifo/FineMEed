@@ -1,6 +1,6 @@
-# RSMed
+# FineMed
 
-Reasonable Medication Recommendation via Medication Mapping and Diagnosis Enhancement
+Medication Mapping and Diagnosis Enhancement for Fine-grained Medication Recommendation
 
 ## Environment
 
